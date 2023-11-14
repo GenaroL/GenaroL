@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm currently pursuing my Bachelor's in Software Engineering at UTN-FRC.<br>🌱  I'm currently working as an intern in IT as a full-stack developer.<br>🎯 My Goal is to be graduated on 2024 while also developing professionally.<br>⚡ I enjoy playing basketball and riding a bike.<br>🔭 I'm a curious person who is interested in understanding how things work and how they can be improved.
+🎓I'm currently pursuing my Bachelor's in Software Engineering at UTN-FRC.<br>🌱  I'm currently working as a full-stack developer.<br>🎯 My Goal is to be graduated on 2024 while also developing professionally.<br>⚡ I enjoy playing basketball and riding a bike.<br>🔭 I'm a curious person who is interested in understanding how things work and how they can be improved.
 
 
 ## 🌐 Socials:
